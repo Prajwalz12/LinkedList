@@ -7,11 +7,11 @@ namespace Linkedlist_Day14
         static void Main(string[] args)
         {
             LinkedList list = new LinkedList();
-            list.Add(70);
+            list.Add(56);
             list.Display();
             list.Add(30);
             list.Display();
-            list.Add(56);
+            list.Add(70);
             list.Display();
 
         }
