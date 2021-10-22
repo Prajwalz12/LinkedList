@@ -8,12 +8,12 @@ namespace Linkedlist_Day14
         {
             LinkedList list = new LinkedList();
             list.Add(56);
-            list.Display();
             list.Add(30);
-            list.Display();
             list.Add(70);
             list.Display();
-
+            list.RemoveFirstNode();
+            Console.WriteLine("First Node Removed");
+            list.Display();
         }
     }
 }
