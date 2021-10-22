@@ -6,7 +6,12 @@ namespace Linkedlist_Day14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcocme to Linked List Programs");
+            LinkedList list = new LinkedList();
+            list.Add(56);
+            list.Add(30);
+            list.Add(70);
+            list.Display();
+
         }
     }
 }

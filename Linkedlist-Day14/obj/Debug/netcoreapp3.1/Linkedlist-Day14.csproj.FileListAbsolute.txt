@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\bin\Debug\netcoreapp3.1\Linkedlist-Day14.exe
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\bin\Debug\netcoreapp3.1\Linkedlist-Day14.deps.json
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\bin\Debug\netcoreapp3.1\Linkedlist-Day14.runtimeconfig.json
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\bin\Debug\netcoreapp3.1\Linkedlist-Day14.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\bin\Debug\netcoreapp3.1\Linkedlist-Day14.dll
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\bin\Debug\netcoreapp3.1\Linkedlist-Day14.pdb
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.AssemblyInfo.cs
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.dll
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.pdb
+C:\Users\Admin\Desktop\projects\Linkedlist-Day14\Linkedlist-Day14\obj\Debug\netcoreapp3.1\Linkedlist-Day14.genruntimeconfig.cache
