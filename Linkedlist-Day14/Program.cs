@@ -11,9 +11,9 @@ namespace Linkedlist_Day14
             list.Add(30);
             list.Add(70);
             list.Display();
-            list.RemoveLastNode();
-            Console.WriteLine("Last Node Removed");
-            list.Display();
+            list.Search(30);
+
+
         }
     }
 }

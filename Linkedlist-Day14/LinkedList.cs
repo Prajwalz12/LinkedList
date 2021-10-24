@@ -42,24 +42,21 @@ namespace Linkedlist_Day14
             }
         }
 
-        internal Node RemoveLastNode()
+        internal int Search(int value)
         {
-            if (head == null)
+            Node node = this.head;
+            int count = 0;
+            while (node != null)
             {
-                return null;
-
+                if (node.data == value)
+                {
+                    return count;
+                }
+                node = node.next;
+                count++;
+                Console.WriteLine("Node is at 30");
             }
-            if (head.next == null)
-            {
-                return null;
-            }
-            Node NewNode = head;
-            while (NewNode.next.next != null)
-            {
-                NewNode = NewNode.next;
-            }
-            NewNode.next = null;
-            return head;
+            return count;
         }
 
 
