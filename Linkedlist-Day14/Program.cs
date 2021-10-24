@@ -11,7 +11,10 @@ namespace Linkedlist_Day14
             list.Add(30);
             list.Add(70);
             list.Display();
-            list.Search(30);
+            int a = list.Search(30);
+            Console.WriteLine("Index positon of element 30 is : " + a);
+            list.InsertAtParticularPosition(a + 1, 40);
+            list.Display();
 
 
         }
